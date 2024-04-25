@@ -4,6 +4,8 @@ Atualmente sou estudante de Engenharia de Software, trabalho na área comercial 
 
 Estudando linguagem em Python e Java. Interessado em aprender mais linguagens ao longo do tempo.
 
-<div>
-<a href-"https://beacons.ai/wiliampereira00">
+##
+[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=williampereira00&show_icons=true&theme=moltack )](https://github.com/williampereira00)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williampereira00&layout=compact&theme=moltack )](https://github.com/williampereira00)
+
   
